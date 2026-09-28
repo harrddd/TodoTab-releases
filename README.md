@@ -8,10 +8,9 @@
 
 ## 다운로드 (Windows 10/11, 64비트)
 
-| 파일 | 설명 |
-|---|---|
-| [**TodoTab-Setup.exe**](https://github.com/harrddd/TodoTab-releases/releases/latest/download/TodoTab-Setup.exe) | 설치형 (추천). 시작 메뉴·바탕화면 바로가기가 생기고 실행이 빨라요. |
-| [TodoTab-Portable.exe](https://github.com/harrddd/TodoTab-releases/releases/latest/download/TodoTab-Portable.exe) | 포터블. 설치 없이 바로 실행 (실행할 때마다 몇 초 더 걸려요). |
+**[TodoTab-Setup.exe 받기](https://github.com/harrddd/TodoTab-releases/releases/latest/download/TodoTab-Setup.exe)** — 설치하면 시작 메뉴·바탕화면 바로가기가 생겨요.
+
+한 번 설치하면 이후 새 버전은 **자동으로 업데이트**돼요 (2.0.2부터). 켤 때 새 버전을 받아두고, "지금 다시 시작"을 누르거나 앱을 종료할 때 설치됩니다.
 
 위 링크는 항상 최신 버전을 받습니다. 이전 버전은 [Releases](https://github.com/harrddd/TodoTab-releases/releases)에 있어요.
 
